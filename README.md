@@ -30,3 +30,7 @@ Haddock-OS 整体实现也比较轻巧简洁，容易理解。
 
 由于 MCU 的 RAM/ROM 资源很宝贵，因此 Haddock-OS 可裁剪资源以满足不同系统的需求。    
 最大任务数，最大任务优先级数量，最大 timer 数量，可分配的内存池资源，都可以配置。
+
+#### 商用友好
+
+Commercial Use Friendly: [Mozilla Public License, version 2.0](https://www.mozilla.org/en-US/MPL/2.0/)
