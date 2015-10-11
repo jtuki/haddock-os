@@ -38,4 +38,5 @@ Commercial Use Friendly: [Mozilla Public License, version 2.0](https://www.mozil
 #### Documents
 
 1. [Tutorial](readme/tutorial.md) 
-2. [API reference](readme/api/haddock_api.md)。
+2. [API reference](readme/api/haddock_api.md)
+3. [Port Howto](readme/port.md)
