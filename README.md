@@ -34,3 +34,8 @@ Haddock-OS 整体实现也比较轻巧简洁，容易理解。
 #### 商用友好
 
 Commercial Use Friendly: [Mozilla Public License, version 2.0](https://www.mozilla.org/en-US/MPL/2.0/)
+
+#### Documents
+
+1. [Tutorial](readme/tutorial.md) 
+2. [API reference](readme/api/haddock_api.md)。

@@ -26,5 +26,3 @@
 16.000		 : pong: wakeup
 16.000		 : pong: sleep
 ```
-
-5. API 说明请参考 [haddock_api.md](api/haddock_api.md)。
