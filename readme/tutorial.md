@@ -29,4 +29,13 @@ todo
   16.000		 : pong: sleep
   ```
 
-5. todo
+5. MCU 外部通信支持。默认情况下，MCU 和外部的通信，都采用 network endianness，即大端模式。Haddock 提供 utility 函数来供 ntoh / hton 转换。请参考 `lib/hdk_utilities.c` 文件：
+  ```c
+  void hdk_init_platform_endian(void);
+  os_uint32 os_hton_u32(os_uint32 i);
+  os_uint16 os_hton_u16(os_uint16 i);
+  os_uint32 os_ntoh_u32(os_uint32 i);
+  os_uint16 os_ntoh_u16(os_uint16 i);
+  ```
+
+6. todo
