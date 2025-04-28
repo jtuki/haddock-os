@@ -1,6 +1,8 @@
 # Haddock-OS
 A lightweight, energy-awareness, non-preemptive, event-driven, easy-to-use embedded OS for micro processors.
 
+> Deepwiki: https://deepwiki.com/jtuki/haddock-os
+
 #### 轻量级 - 非抢占 - 事件驱动
 
 对小型的 MCU 处理器来说，任何无必要的 RAM/ROM 开销都要尽量避免。      
